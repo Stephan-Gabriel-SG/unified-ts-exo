@@ -16,6 +16,6 @@
 
 - diaries
 
-### Exercise 9.21-2.30
+### Exercise 9.21-9.30
 
 - grande finale: patientor
